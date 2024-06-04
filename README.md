@@ -1,2 +1,4 @@
 # hsw-fp-collector
-some shit that i made recently
+
+gets unhashed events and navigator, screen data
+could be used to scrape
