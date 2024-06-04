@@ -1,4 +1,4 @@
-# hsw-fp-collector
+# hsw-fp-collector (not finished)
 made it in like 15 mins
 
 ## What it does???!?
